@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+  double e,y,u;
+  scanf("%lf%lf",&e,&y);
+  u=e/y;
+  printf("The ans is %lf",u);
+  
+  
+}
